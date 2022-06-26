@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-Advisor/static/css/main.474541b3.css",
+    "main.js": "/Tour-Advisor/static/js/main.065ebe65.js",
+    "index.html": "/Tour-Advisor/index.html",
+    "main.474541b3.css.map": "/Tour-Advisor/static/css/main.474541b3.css.map",
+    "main.065ebe65.js.map": "/Tour-Advisor/static/js/main.065ebe65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474541b3.css",
+    "static/js/main.065ebe65.js"
+  ]
+}
